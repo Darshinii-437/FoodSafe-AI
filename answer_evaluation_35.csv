@@ -1,0 +1,83 @@
+﻿question_id,question,answer,sources,best_retrieval_score,error_type
+1,What is food hygiene according to Codex?,"According to the **Codex General Principles of Food Hygiene**, **food hygiene** is defined as:
+
+All conditions and measures necessary to ensure the safety and suitability of food at all stages of the food chain.
+
+*(Source: Codex General Principles of Food Hygiene)*",Codex General Principles of Food Hygiene,0.677451491355896,
+2,What are Good Hygiene Practices (GHPs)?,"Based on the **Codex General Principles of Food Hygiene**, Good Hygiene Practices (GHPs) are:
+
+* **Conditions and Activities for Food Safety:** They provide the general conditions and activities necessary to support the production of safe and suitable food at all stages of the food chain, from primary production through to the handling of the final product.
+* **Hygiene and Environment Maintenance:** They maintain hygiene and create an appropriate environment (both inside and outside the food business) to ensure food safety and suitability. 
+* **Hazard Control:** They are generally not specific to any single hazard, but they assist in controlling and managing many sources of hazards that could contaminate food products (such as hazards from food handlers during harvest and manufacturing) and minimize the occurrence and levels of hazards in the food chain.
+* **Scope:** Effective implementation includes the appropriate location, layout, design, construction, and maintenance of premises and facilities.",Codex General Principles of Food Hygiene,0.6141119599342346,
+3,Why is training important in a food hygiene system?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.7946996092796326,rate_limit
+4,What should cleaning accomplish?,"Based on the **Codex General Principles of Food Hygiene**, cleaning should remove food residue and dirt which may be a source of contamination, including allergens. 
+
+Additionally, effective cleaning should remove soil to allow disinfectants to properly contact microorganisms.",Codex General Principles of Food Hygiene,0.6595109701156616,
+5,What is the requirement for petty food business registration?,"Based on the **FSSAI Licensing and Registration Regulations**, the requirements for petty food business registration are as follows:
+
+1. **Application and Fee:** Every petty Food Business Operator must submit an application for registration to the Registering Authority in **Form A** under Schedule 2, along with the specified fee provided in Schedule 3.
+2. **Hygiene and Safety Compliance:** The petty food manufacturer must follow the basic hygiene and safety requirements specified in **Part I of Schedule 4**.
+3. **Self-Attested Declaration:** The applicant must provide a self-attested declaration of adherence to these hygiene and safety requirements along with the application, using the format specified in **Annexure-1 under Schedule 2**.
+4. **Display Certificate:** Once granted, the registration certificate and photo identity card issued by the Registering Authority must be displayed at a prominent place at all times within the premises, vehicle, cart, or location where the food business is conducted.
+
+*(Note: A milk producer who is a registered member of a dairy Cooperative Society registered under the Cooperative Societies Act and supplies or sells their entire milk to the Society is exempted from this registration requirement.)*
+
+**Source Document:** 
+*FSSAI Licensing and Registration Regulations*",FSSAI Licensing and Registration Regulations,0.8239922523498535,
+6,What are the basic requirements for a petty food manufacturer?,"Based on the **FSSAI Licensing and Registration Regulations**, the basic requirements for a petty food manufacturer include:
+
+1. **Registration:** Every petty food business operator must register with the Registering Authority by submitting an application in **Form A** under Schedule 2, along with the prescribed fee under Schedule 3.
+2. **Hygiene and Safety Standards:** The manufacturer must follow the basic hygiene and sanitary practices provided in **Part I of Schedule 4** of the Regulations (*General Hygienic and Sanitary practices to be followed by Petty Food Business Operators applying for Registration*).
+3. **Self-Attested Declaration:** The manufacturer must provide a self-attested declaration of adherence to these hygiene and safety requirements along with their application (in the format specified in Annexure-1 under Schedule 2).
+4. **Continuous Improvement:** Ensure adherence to sanitary and hygienic requirements and food safety measures, with the goal of continuously improving conditions to attain India HACCP standards.
+5. **Display of Certificate:** The issued registration certificate and photo identity card must be displayed at a prominent place at all times within the premises, vehicle, cart, or location where food is manufactured or sold.
+
+*(Source: FSSAI Licensing and Registration Regulations)*",FSSAI Licensing and Registration Regulations,0.6921157240867615,
+7,What are the limits for aflatoxin and aflatoxin M1?,"Based on the **FSSAI Contaminants Regulations** (Source 1), the limits are:
+
+* **Aflatoxin:** 30 µg/kg for **All articles of food**
+* **Aflatoxin M 1:** 0.5 µg/kg for **Milk**
+
+*(Note: The **FSSAI Food Products Standards and Food Additives Regulations** also specifies an aflatoxin limit of not more than 30 micrograms per kilogram / not more than 30 parts per billion for specific commodities such as certain food grains and raisins).*",FSSAI Contaminants Regulations; FSSAI Food Products Standards and Food Additives Regulations,0.6335816383361816,
+8,What is the mercury limit in fish?,"According to the **FSSAI Contaminants Regulations** (Source 1), the limit for **Mercury** in **Fish** is **0.5**. 
+
+However, because the unit is not specified in the table for this entry, the unit cannot be confirmed.",FSSAI Contaminants Regulations; FSSAI Food Products Standards and Food Additives Regulations,0.47248023748397827,
+9,What is meant by frozen dessert or frozen confection?,"According to the **FSSAI Food Products Standards and Food Additives Regulations**, **Frozen Dessert / Frozen Confection** means:
+
+The product obtained by freezing a pasteurised mix prepared with:
+* Milk fat and/or edible vegetable oils and fat (having a melting point of not more than 37.0°C) in combination, and 
+* Milk protein alone or in combination, and/or vegetable protein products singly or in combination,
+* With the addition of nutritive sweetening agents (such as sugar, dextrose, fructose, liquid glucose, dried liquid glucose, maltodextrin, high maltose corn syrup, honey), fruit and fruit products, eggs and egg products, coffee, cocoa, chocolate, condiments, spices, ginger, and nuts.
+
+Additionally, the product:
+* May contain bakery products such as cake or cookies as a separate layer or coating.
+* May be frozen hard or frozen to a soft consistency.
+* Must have a pleasant taste and flavour, free from off-flavour and rancidity.
+* May contain permitted food additives and must conform to the prescribed microbiological and regulatory requirements.",FSSAI Food Products Standards and Food Additives Regulations,0.6826059818267822,
+10,What are the microbiological requirements for food products?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene; FSSAI Food Products Standards and Food Additives Regulations; FSSAI Licensing and Registration Regulations,0.6761415004730225,rate_limit
+11,Why should food workers receive hygiene training?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.7421250343322754,rate_limit
+12,How does cleaning food-contact surfaces prevent contamination?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.7721964120864868,rate_limit
+13,How can contamination between raw and ready-to-eat food be reduced?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Licensing and Registration Regulations; Codex General Principles of Food Hygiene,0.7446250915527344,rate_limit
+14,What must a small food business do before operating?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Licensing and Registration Regulations; Codex General Principles of Food Hygiene,0.6269550323486328,rate_limit
+15,What happens if contaminants exceed the specified FSSAI limits?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Contaminants Regulations; FSSAI Food Products Standards and Food Additives Regulations; Codex General Principles of Food Hygiene,0.5203329920768738,rate_limit
+16,What are naturally occurring toxic substances and their limits?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Contaminants Regulations; FSSAI Food Products Standards and Food Additives Regulations; FSSAI Licensing and Registration Regulations,0.5723022222518921,rate_limit
+17,What food products are covered by frozen dessert standards?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Food Products Standards and Food Additives Regulations,0.6522693037986755,rate_limit
+18,Why are food additives mentioned in the regulations?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Food Products Standards and Food Additives Regulations,0.6915472745895386,rate_limit
+19,What is a prerequisite programme?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.3601242005825043,rate_limit
+20,What is a significant hazard?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.5020069479942322,rate_limit
+21,What is HACCP?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.6020488739013672,rate_limit
+22,What is a Registering Authority?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Licensing and Registration Regulations,0.5738672614097595,rate_limit
+23,What is a State Licensing Authority?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Licensing and Registration Regulations,0.5154470205307007,rate_limit
+24,What is aflatoxin M1 and what is its limit in milk?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Contaminants Regulations; FSSAI Food Products Standards and Food Additives Regulations,0.6616297960281372,rate_limit
+25,What is the cadmium limit in turmeric?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Food Products Standards and Food Additives Regulations; FSSAI Contaminants Regulations,0.5072745680809021,rate_limit
+26,What is methyl mercury?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Contaminants Regulations; FSSAI Food Products Standards and Food Additives Regulations,0.38495513796806335,rate_limit
+27,What are Codex hygiene requirements and FSSAI food-business requirements?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Licensing and Registration Regulations; Codex General Principles of Food Hygiene,0.6548424363136292,rate_limit
+28,How are contamination prevention requirements different from contaminant limits?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.6092269420623779,rate_limit
+29,What are the hygiene responsibilities of a food business and how do contaminant limits relate to them?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene; FSSAI Licensing and Registration Regulations,0.7807551026344299,rate_limit
+30,How do hygiene practices relate to food product standards?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene; FSSAI Licensing and Registration Regulations,0.7201987504959106,rate_limit
+31,Why is food hygiene training necessary?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.7907032370567322,rate_limit
+32,How should raw food and ready-to-eat food be separated?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Licensing and Registration Regulations,0.5908340811729431,rate_limit
+33,What is the difference between cleaning and disinfection?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.6864630579948425,rate_limit
+34,What are the registration and hygiene obligations of a small food business?,The AI service is temporarily unavailable or rate-limited. Please try again later.,FSSAI Licensing and Registration Regulations,0.7650958299636841,rate_limit
+35,Can a food product be considered safe if it exceeds a contaminant limit?,The AI service is temporarily unavailable or rate-limited. Please try again later.,Codex General Principles of Food Hygiene,0.619073748588562,rate_limit
